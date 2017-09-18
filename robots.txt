@@ -1,0 +1,10 @@
+Sitemap: http://mech14.weebly.com/sitemap.xml
+
+User-agent: NerdyBot
+Disallow: /
+
+User-agent: *
+Disallow: /ajax/
+Disallow: /apps/
+Disallow: /semester-4.html
+Disallow: /semester-3.html
